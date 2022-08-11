@@ -1,0 +1,22 @@
+<svg width="320" height="320" viewBox="0 0 320 320" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect x="90" y="200" width="60" height="10" fill="#CAEFF9"/>
+<rect x="180" y="200" width="60" height="10" fill="#CAEFF9"/>
+<rect width="50" height="10" transform="matrix(-1 0 0 1 240 160)" fill="#FFC110"/>
+<rect width="60" height="10" transform="matrix(-1 0 0 1 240 150)" fill="#FFC110"/>
+<rect width="30" height="10" transform="matrix(-1 0 0 1 240 170)" fill="#FFC110"/>
+<rect width="10" height="10" transform="matrix(-1 0 0 1 240 180)" fill="#FFC110"/>
+<rect x="90" y="160" width="50" height="10" fill="#FFC110"/>
+<rect x="90" y="150" width="60" height="10" fill="#FFC110"/>
+<rect x="90" y="170" width="30" height="10" fill="#FFC110"/>
+<rect x="90" y="180" width="10" height="10" fill="#FFC110"/>
+<rect x="100" y="160" width="10" height="10" fill="#FFC110"/>
+<rect x="90" y="170" width="10" height="20" fill="#C16710"/>
+<rect x="110" y="170" width="10" height="10" fill="#C16710"/>
+<rect x="100" y="150" width="10" height="20" fill="#C16710"/>
+<rect x="120" y="150" width="10" height="20" fill="#C16710"/>
+<rect x="140" y="150" width="10" height="10" fill="#C16710"/>
+<rect x="220" y="170" width="10" height="10" fill="#C16710"/>
+<rect x="190" y="150" width="10" height="20" fill="#C16710"/>
+<rect x="210" y="150" width="10" height="20" fill="#C16710"/>
+<rect x="230" y="150" width="10" height="20" fill="#C16710"/>
+</svg>

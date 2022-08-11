@@ -1,0 +1,27 @@
+<svg width="320" height="320" viewBox="0 0 320 320" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect x="90" y="150" width="60" height="30" fill="#E11833"/>
+<rect x="90" y="180" width="60" height="30" fill="#E11833"/>
+<rect x="180" y="150" width="60" height="30" fill="#E11833"/>
+<rect x="180" y="180" width="60" height="30" fill="#E11833"/>
+<rect x="90" y="200" width="50" height="10" fill="#BF142B"/>
+<rect x="110" y="160" width="40" height="10" fill="#63A0F9"/>
+<rect x="120" y="170" width="30" height="10" fill="#63A0F9"/>
+<rect x="180" y="180" width="30" height="10" fill="#63A0F9"/>
+<rect x="130" y="180" width="20" height="10" fill="#63A0F9"/>
+<rect x="180" y="170" width="20" height="10" fill="#63A0F9"/>
+<rect x="180" y="190" width="20" height="10" fill="#63A0F9"/>
+<rect x="140" y="190" width="10" height="10" fill="#63A0F9"/>
+<rect x="180" y="160" width="10" height="10" fill="#63A0F9"/>
+<rect x="210" y="190" width="10" height="10" fill="#63A0F9"/>
+<rect x="200" y="190" width="10" height="10" fill="#B2A8A5"/>
+<rect x="200" y="200" width="20" height="10" fill="#B2A8A5"/>
+<rect x="140" y="190" width="10" height="10" fill="#BF142B"/>
+<rect x="100" y="180" width="40" height="10" fill="#BF142B"/>
+<rect width="50" height="10" transform="matrix(-1 0 0 1 240 200)" fill="#BF142B"/>
+<rect width="10" height="10" transform="matrix(-1 0 0 1 190 190)" fill="#BF142B"/>
+<rect width="40" height="10" transform="matrix(-1 0 0 1 230 180)" fill="#BF142B"/>
+<rect x="110" y="160" width="40" height="10" fill="#63A0F9"/>
+<rect x="120" y="170" width="30" height="10" fill="#63A0F9"/>
+<rect x="180" y="160" width="10" height="10" fill="#63A0F9"/>
+<rect x="180" y="170" width="20" height="10" fill="#63A0F9"/>
+</svg>

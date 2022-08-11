@@ -1,0 +1,29 @@
+<svg width="320" height="320" viewBox="0 0 320 320" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect x="180" y="150" width="60" height="30" fill="#FFF0EE"/>
+<rect x="90" y="150" width="60" height="30" fill="#FFF0EE"/>
+<rect x="90" y="170" width="60" height="40" fill="#FFF0EE"/>
+<rect x="180" y="170" width="60" height="40" fill="#FFF0EE"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M110 150H90V160V170H100V160H110V150Z" fill="#7D635E"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M110 180H90V190V200H100V190H110V180Z" fill="#7D635E"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M200 180H180V190V200H190V190H200V180Z" fill="#7D635E"/>
+<path d="M100 200H120V210H100V200Z" fill="#7D635E"/>
+<path d="M190 200H210V210H190V200Z" fill="#7D635E"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M120 170H100V180V190H110V180H120V170Z" fill="#7D635E"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M210 170H190V180V190H200V180H210V170Z" fill="#7D635E"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M130 190H110V200V210H120V200H130V190Z" fill="#7D635E"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M220 190H200V200V210H210V200H220V190Z" fill="#7D635E"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M130 160H110V170V180H120V170H130V160Z" fill="#7D635E"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M220 160H200V170V180H210V170H220V160Z" fill="#7D635E"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M140 180H120V190V200H130V190H140V180Z" fill="#7D635E"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M230 180H210V190V200H220V190H230V180Z" fill="#7D635E"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M130 210H150V200V190H140V200H130V210Z" fill="#7D635E"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M220 210H240V200V190H230V200H220V210Z" fill="#7D635E"/>
+<rect x="220" y="170" width="10" height="10" fill="#7D635E"/>
+<rect x="190" y="160" width="40" height="10" fill="black"/>
+<rect x="100" y="160" width="40" height="10" fill="black"/>
+<rect x="180" y="170" width="10" height="10" fill="black"/>
+<rect x="90" y="170" width="10" height="10" fill="black"/>
+<rect x="230" y="170" width="10" height="10" fill="black"/>
+<rect x="140" y="170" width="10" height="10" fill="black"/>
+<rect x="100" y="150" width="10" height="10" fill="#FFF0EE"/>
+</svg>
