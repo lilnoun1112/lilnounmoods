@@ -1,0 +1,17 @@
+<svg width="320" height="320" viewBox="0 0 320 320" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="50" height="10" transform="matrix(-1 0 0 1 240 160)" fill="#FFF0EE"/>
+<rect width="60" height="10" transform="matrix(-1 0 0 1 240 150)" fill="#FFF0EE"/>
+<rect width="30" height="10" transform="matrix(-1 0 0 1 240 170)" fill="#FFF0EE"/>
+<rect width="10" height="10" transform="matrix(-1 0 0 1 240 180)" fill="#FFF0EE"/>
+<rect x="90" y="160" width="50" height="10" fill="#FFF0EE"/>
+<rect x="90" y="150" width="60" height="10" fill="#FFF0EE"/>
+<rect x="90" y="170" width="30" height="10" fill="#FFF0EE"/>
+<rect x="90" y="180" width="10" height="10" fill="#FFF0EE"/>
+<rect x="100" y="160" width="10" height="10" fill="#FFF0EE"/>
+<mask id="mask0_382_23921" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="90" y="150" width="150" height="40">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M240 150H180V160H190V170H210V180H230V190H240V180V170V160V150ZM90 160V170V180V190H100V180H120V170H140V160H150V150H90V160Z" fill="#FFF0EE"/>
+</mask>
+<g mask="url(#mask0_382_23921)">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M90 150H110V160H100V170H90V160V150ZM100 200H90V190V180H100V170H110V160H130V170H120V180H110V190H100V200ZM130 200H120V210H110H100V200H110V190H120V180H140V190H130V200ZM130 200V210H150V200V190H140V200H130ZM190 180H180V190V200H190V210H200H210V200H220V210H240V200V190H230V180V170H220V160H200V170H190V180ZM220 180V170H210V180H200V190H190V200H200V190H210V180H220ZM230 190H220V200H230V190Z" fill="#7D635E"/>
+</g>
+</svg>

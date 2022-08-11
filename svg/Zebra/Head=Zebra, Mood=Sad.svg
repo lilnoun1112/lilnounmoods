@@ -1,0 +1,18 @@
+<svg width="320" height="320" viewBox="0 0 320 320" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="50" height="10" transform="matrix(-1 0 0 1 240 160)" fill="#CFC9B8"/>
+<rect width="60" height="10" transform="matrix(-1 0 0 1 240 150)" fill="#CFC9B8"/>
+<rect width="30" height="10" transform="matrix(-1 0 0 1 240 170)" fill="#CFC9B8"/>
+<rect width="10" height="10" transform="matrix(-1 0 0 1 240 180)" fill="#CFC9B8"/>
+<rect x="90" y="160" width="50" height="10" fill="#CFC9B8"/>
+<rect x="90" y="150" width="60" height="10" fill="#CFC9B8"/>
+<rect x="90" y="170" width="30" height="10" fill="#CFC9B8"/>
+<rect x="90" y="180" width="10" height="10" fill="#CFC9B8"/>
+<rect x="90" y="180" width="10" height="10" fill="black"/>
+<rect x="140" y="150" width="10" height="10" fill="black"/>
+<rect x="100" y="170" width="20" height="10" fill="black"/>
+<rect x="120" y="160" width="20" height="10" fill="black"/>
+<rect width="10" height="10" transform="matrix(-1 0 0 1 240 180)" fill="black"/>
+<rect width="10" height="10" transform="matrix(-1 0 0 1 190 150)" fill="black"/>
+<rect width="20" height="10" transform="matrix(-1 0 0 1 230 170)" fill="black"/>
+<rect width="20" height="10" transform="matrix(-1 0 0 1 210 160)" fill="black"/>
+</svg>

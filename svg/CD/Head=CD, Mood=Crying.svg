@@ -1,0 +1,13 @@
+<svg width="320" height="320" viewBox="0 0 320 320" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect x="90" y="200" width="60" height="10" fill="#CAEFF9"/>
+<rect x="180" y="200" width="60" height="10" fill="#CAEFF9"/>
+<mask id="mask0_356_33449" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="90" y="150" width="150" height="40">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M240 150H180V160H190V170H210V180H230V190H240V180V170V160V150ZM90 160V170V180V190H100V180H120V170H140V160H150V150H90V160Z" fill="#A3BAED"/>
+</mask>
+<g mask="url(#mask0_356_33449)">
+<rect x="90" y="150" width="60" height="30" fill="#FF638D"/>
+<rect x="180" y="150" width="60" height="20" fill="#2B83F6"/>
+<rect x="180" y="170" width="60" height="20" fill="#CC0595"/>
+<rect x="90" y="180" width="60" height="20" fill="#FFC110"/>
+</g>
+</svg>
